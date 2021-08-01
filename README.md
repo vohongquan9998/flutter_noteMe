@@ -4,7 +4,7 @@
 
 
 
-Note App using Sqlite Database
+Note App using Database
 
 ## Getting Started
 
